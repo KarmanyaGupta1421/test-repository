@@ -1,8 +1,8 @@
 Here's a simple footnote,[^3] and here's a longer one.[^bignote]
 
-well hello there, this is my line
-this is another line
-this is yet another line
+well hello there, this is my line<br>
+this is another line<br>
+this is yet another line<br>
 
 [^3]: This is the first footnote.
 
