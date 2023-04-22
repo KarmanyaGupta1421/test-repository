@@ -6,7 +6,7 @@ I code in ![Python][3] and ![C++][4]*
 
  On my way to learn more languages :\) 💪 .....
 
- ## <img align = 'center' src = "https://thenounproject.com/api/private/icons/1790865/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0&token=gAAAAABkRDUEa0HPKJCzho8gd9ftC7TXqFw8c5LMVZB6JSeNEdujXbyrB_jze7m4KIu271Rr1fhxQCi1Gn1SRk7c8VoQ36NpDA%3D%3D" height = "50" >Socials
+ ## <img align = 'center' src = "https://cdn-icons-png.flaticon.com/512/3601/3601336.png" height = "40" >Socials
  [![Twitter Follow](https://img.shields.io/twitter/follow/karmanya_21?style=social)](https://twitter.com/karmanya_21)
  [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/KarmanyaGupta1421)
  [![Linkedin: karmanya](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karmanya-gupta-653a4b254/)
