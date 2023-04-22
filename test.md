@@ -10,6 +10,6 @@ this is yet another line<br>
 
     Indent paragraphs to include them in the footnote.
 
-`{ my code }`
+    `{ my code }`
 
     Add as many paragraphs as you like.
