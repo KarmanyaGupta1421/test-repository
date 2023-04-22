@@ -1,16 +1,25 @@
-Here's a simple footnote,[^3] and here's a longer one.[^bignote]
+## 😁HI, I am Karmanya <img src = "https://media2.giphy.com/media/QwsL2pJZ6C79npNiql/giphy.gif?cid=ecf05e477r8d4ime188zqfc15mdtrha50qc4part8mpfln8m&rid=giphy.gif&ct=s" height = "50">
 
-well hello there, this is my line<br>
-this is another line<br>
-this is yet another line<br>
+*First year student of mathematics and computing at [IIT Goa](https://iitgoa.ac.in/)<br>
+I love competitive programming 💻. I am a ***2★*** coder at [![CodeChef][1]][2]<br>
+I code in ![Python][3] and ![C++][4]*
 
->this is a line
-[^3]: This is the first footnote.
+ On my way to learn more languages :\) 💪 .....
 
-[^bignote]: Here's one with multiple paragraphs and code.
+ ## <img align = 'center' src = "https://thenounproject.com/api/private/icons/1873405/edit/?backgroundShape=SQUARE&backgroundShapeColor=%23000000&backgroundShapeOpacity=0&exportSize=752&flipX=false&flipY=false&foregroundColor=%23000000&foregroundOpacity=1&imageFormat=png&rotation=0&token=gAAAAABkRB4pqdJ5ok67R_PDtSKlajIjj14WmqzJs_FUaMotTDMJ9ux6ntXbfsIQbYZlo8ZxufZZ9NxqCQdSW2kKXL3lGXFc8Q%3D%3D" height = "50" >Socials
+ [![Twitter Follow](https://img.shields.io/twitter/follow/karmanya_21?style=social)](https://twitter.com/karmanya_21)
+ [![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=flat&logo=github&logoColor=white)](https://github.com/KarmanyaGupta1421)
+ [![Linkedin: karmanya](https://img.shields.io/badge/-LinkedIn-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/karmanya-gupta-653a4b254/)
+ [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/karmanya_gupta.21/)
+ [![Discord](https://img.shields.io/badge/Discord-5865F2.svg?style=flat&logo=discord&logoColor=white)](http://discordapp.com/users/703258428797222973)
+<br><br><br><br><br>
+ <center><img align = "center" src = "https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExZTJmMjQ4ZTA1MzIyOTg4M2RlYzk3NjhmYWJlNGI0YjU5YzEyNzhkNCZlcD12MV9pbnRlcm5hbF9naWZzX2dpZklkJmN0PXM/h0KBN3qQOAxv6DwiFm/giphy.gif" height = "400"></center>
 
-    Indent paragraphs to include them in the footnote.
 
-    `{ my code }`
+[1]: https://img.shields.io/badge/CodeChef-%23964B00.svg?style=flat&logo=CodeChef&logoColor=white
 
-    Add as many paragraphs as you like.
+[2]: https://www.codechef.com/users/karmanyagupta
+
+[3]: https://img.shields.io/badge/python-3670A0?style=flat&logo=python&logoColor=ffdd54
+
+[4]: https://img.shields.io/badge/c++-%2300599C.svg?style=flat&logo=c%2B%2B&logoColor=white
